@@ -1,7 +1,7 @@
 # CatZone 🐱
 
 CatZone is a super-mega-power application that shows you gifs of random cats.
-It was build using React ⚛ Styled Components 💅 and Axios.
+It was built using React ⚛ Styled Components 💅 and Axios.
 
 ## Installation
 
