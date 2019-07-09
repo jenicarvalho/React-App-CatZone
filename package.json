@@ -2,6 +2,7 @@
   "name": "catzone",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://jenicarvalho.github.io/React-App-CatZone",
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.8.6",
