@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/React-App-CatZone/static/js/main.96a57b2e.chunk.js",
+    "main.js.map": "/React-App-CatZone/static/js/main.96a57b2e.chunk.js.map",
+    "runtime~main.js": "/React-App-CatZone/static/js/runtime~main.a2080bbe.js",
+    "runtime~main.js.map": "/React-App-CatZone/static/js/runtime~main.a2080bbe.js.map",
+    "static/js/2.cc866176.chunk.js": "/React-App-CatZone/static/js/2.cc866176.chunk.js",
+    "static/js/2.cc866176.chunk.js.map": "/React-App-CatZone/static/js/2.cc866176.chunk.js.map",
+    "index.html": "/React-App-CatZone/index.html",
+    "precache-manifest.7a63816aeef643ee5604c3ffbc95c8d9.js": "/React-App-CatZone/precache-manifest.7a63816aeef643ee5604c3ffbc95c8d9.js",
+    "service-worker.js": "/React-App-CatZone/service-worker.js"
+  }
+}
